@@ -16,6 +16,7 @@ public class FormularioActivity2 extends AppCompatActivity {
     private Spinner spTipo;
     private Button btnSalvar;
     private String acao;
+    private Produto produto;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
